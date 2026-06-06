@@ -1,0 +1,11 @@
+# Alles ignorieren
+*
+
+# Verzeichnisse trotzdem durchsuchen
+!*/
+
+# Jupyter Notebooks tracken
+!*.ipynb
+
+# data_complete.csv tracken
+!data_complete.csv
