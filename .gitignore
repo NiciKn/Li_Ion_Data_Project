@@ -9,3 +9,6 @@
 
 # data_complete.csv tracken
 !data_complete.csv
+
+# Jupyter-Checkpoint-Ordner ignorieren
+.ipynb_checkpoints/
